@@ -1,0 +1,18 @@
+# 数据文件 (文件太大，通常不传)
+# data/train.csv
+# data/test.csv
+# src/submission.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# LaTeX 编译产生的临时文件
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+report/*.pdf
+report/*.blg
+report/*.bbl
